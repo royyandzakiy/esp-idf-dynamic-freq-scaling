@@ -1,3 +1,4 @@
+# tickless idle required to enable configure pm: light sleep
 CONFIG_PM_ENABLE=y
 CONFIG_FREERTOS_USE_TICKLESS_IDLE=y
 # set speed at compile time: 240, 160, 80
